@@ -1,0 +1,14 @@
+/* style.css */
+* {
+    font-family: "Noto Sans", sans-serif;
+}
+
+.name.header {
+    font-family: "Aleo", serif;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 50px;
+    text-align: center;
+}
